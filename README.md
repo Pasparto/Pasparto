@@ -1,8 +1,8 @@
 ### Connect with me:
 
-[<img align="left" alt="Matan Rahmani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<img align="left" alt="Matan Rahmani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" <a target="_blank" href="https://www.linkedin.com/in/matan-rahmani-941b07bb/">/>
 
-  <br />
+ <br />
 
 ### Languages and Tools:
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
