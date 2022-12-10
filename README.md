@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[<img align="left" alt="Matan Rahmani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/matan-rahmani-941b07bb/"/>][linkedin]
+[<img align="left" alt="Matan Rahmani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
   <br />
 
